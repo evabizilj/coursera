@@ -2,7 +2,7 @@
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-    background-color: navajowhite;
+    background-color: blue;
     color: black;
     border: none;
 }
@@ -10,11 +10,11 @@
 body {
 	font-size: 2.5em;
 	font-family: 'Hammersmith One', sans-serif;
-    background-color: navajowhite;
+    background-color: blue;
 }
 
 .navbar-toggle {
-    background-color: wheat;
+    background-color: rgb(179, 215, 245);
     float: right;
 }
 
@@ -26,7 +26,7 @@ body {
 .navbar-brand {
 	height: auto;
 	padding: 0px;
-    background-color: navajowhite;
+    background-color: blue;
 }
 
 .navbar-brand h1 {
@@ -34,7 +34,7 @@ body {
 }
 
 #header-nav {
-    background-color: navajowhite;
+    background-color: blue;
     border: none;
 }	
 
@@ -74,7 +74,7 @@ body {
 }
 
 #collapsable-nav {
-    background-color: navajowhite;
+    background-color: blue;
     border: none;
 }
 
@@ -98,7 +98,7 @@ body {
 	font-size: 1em;
 	font-weight: bold;
 	color: black;
-    background-color: navajowhite;
+    background-color: blue;
 }
 
 #chicken, #beef, #sushi {
